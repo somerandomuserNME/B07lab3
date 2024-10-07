@@ -1,4 +1,5 @@
 package lab3;
+
 class Lab3Exception extends Exception{
     public String message;
 
