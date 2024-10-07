@@ -1,3 +1,4 @@
+package lab3;
 import java.util.Objects;
 
 public class ComplexNumber extends SpecialNumber implements Comparable<ComplexNumber>{

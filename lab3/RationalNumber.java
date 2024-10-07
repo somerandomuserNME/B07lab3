@@ -1,3 +1,4 @@
+package lab3;
 import java.util.Objects;
 
 public class RationalNumber extends SpecialNumber implements Comparable<RationalNumber>{
